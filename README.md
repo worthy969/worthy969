@@ -7,6 +7,7 @@
 * 🤔 i'm open to job opportunities.
 * 💬 Ask me about subject relating data analytics.
 * 📫 How to reach me:[Email](worthynmesoma@gmail.com)
+* 🧑‍💻
 
 <!--
 **worthy969/worthy969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
