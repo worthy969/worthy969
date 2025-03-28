@@ -4,7 +4,9 @@
 * 🔭 I specialize in extracting insights from complex datasets to drive informed decision making, i am actively enhancing my skills in data analysis including tools like Excel,SQL,Tableau and Python.
 * 🌱 Completed a job simulation focused on Data Analytics and Commercial insights for the data science team at **Quantium Data Analytics job** and also Developed expertise in data preparation and customer analytics, utilizing transaction datasets to extract valuable insights and deliver data driven commercial recommendations.
 * 👯 i'm looking forward to collaborate with other data professionals to work on real world and make data driven decisions.
-* 🤔
+* 🤔 i'm open to job opportunities.
+* 💬 Ask me about subject relating data analytics.
+* 📫 How to reach me:[Email](worthynmesoma@gmail.com)
 
 <!--
 **worthy969/worthy969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
