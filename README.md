@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 My Name is Worthy nmesoma 
+### I am Data Analyst/ Business Intelligence Analyst, Computer science graduate 
+Interse
 
 <!--
 **worthy969/worthy969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
