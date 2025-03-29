@@ -11,7 +11,7 @@
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: my favorite color is Black, i love Reading and watching interesting movies, i play Board games like Tennis and I also love Football etc.
   ### Connect with me:
-  (https://www.google.com/url?sa=i&url=https%3A%2F%2Fgraphicsprings.com%2Fblog%2Fview%2Fdiscord-logo%2F&psig=AOvVaw0Xgy9ux494fkWXczoFpWuQ&ust=1743351003696000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjZztXWr4wDFQAAAAAdAAAAABAh)(Discord.com/worthy0205)
+  [https://www.google.com/url?sa=i&url=https%3A%2F%2Fgraphicsprings.com%2Fblog%2Fview%2Fdiscord-logo%2F&psig=AOvVaw0Xgy9ux494fkWXczoFpWuQ&ust=1743351003696000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjZztXWr4wDFQAAAAAdAAAAABAh](Discord.com/worthy0205)
 
 <!--
 **worthy969/worthy969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
