@@ -17,7 +17,7 @@
 
 - 💬 Ask me about subject relating data analytics. **EXCEL, TABLEAU, SQL, PYTHON, POWERPOINT.**
 
-- 📫 How to reach me: **[Email](worthynmesoma@gmail.com)**
+- 📫 How to reach me: **[Email](mailto:worthynmesoma@gmail.com)**
 
 - 😄 Pronouns: He/Him [..](..)
 
