@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/worthyomah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="worthyomah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Worthy-Uzoma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="worthy uzoma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Worthy-Uzoma-793777205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="worthy uzoma" height="30" width="40" /></a>
 <a href="https://kaggle.com/worthy nmesoma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="worthy nmesoma" height="30" width="40" /></a>
 </p>
 
