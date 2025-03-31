@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [..](..)
 
-- 📝 I regularly write articles on [LINKEDIN](www.linkedin.com/in/Worthy-Uzoma-793777205)
+- 📝 I regularly write articles on [LINKEDIN](www.linkedin.com/in/@Worthy-Uzoma-793777205)
 
 - 💬 Ask me about subject relating data analytics. **EXCEL, TABLEAU, SQL, PYTHON, POWERPOINT.**
 
