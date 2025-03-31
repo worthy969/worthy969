@@ -3,11 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=worthy969&label=Profile%20views&color=0e75b6&style=flat" alt="worthy969" /> </p>
 
+- 🔭 I specialize in extracting insights from complex datasets to drive informed decision making, i am actively enhancing my skills in data analysis including tools like Excel,SQL,Tableau and Python. **..**
+
+- 🌱 Completed a job simulation focused on Data Analytics and Commercial insights for the data science team at **Quantium Data Analytics job** and also Developed expertise in data preparation and customer analytics, utilizing transaction datasets to extract valuable insights and deliver data driven commercial recommendations. **..**
+
+- 👯 i'm looking forward to collaborate with other data professionals to work on real world and make data driven decisions. **..**
+
+- 🤔 i'm open to job opportunities. **..**
+
+- 👨‍💻 All of my projects are available at [..](..)
+
 - 📝 I regularly write articles on [[LINKEDIN](www.linkedin.com/in/worthy-uzoma-793777205)]([LINKEDIN](www.linkedin.com/in/worthy-uzoma-793777205))
 
 - 💬 Ask me about subject relating data analytics. **EXCEL, TABLEAU, SQL, PYTHON, POWERPOINT.**
 
 - 📫 How to reach me: **[Email](worthynmesoma@gmail.com)**
+
+- 😄 Pronouns: He/Him [..](..)
 
 - ⚡ Fun fact: **my favorite color is Black, i love Reading and watching interesting movies, i play Board games like Tennis and I also love Football etc.**
 
@@ -24,6 +36,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=worthy969&show_icons=true&locale=en&layout=compact" alt="worthy969" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=worthy969&show_icons=true&locale=en" alt="worthy969" /></p>
+
 
 
 <!--## Hi there 👋 My Name is Worthy nmesoma 
